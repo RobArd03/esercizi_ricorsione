@@ -1,4 +1,8 @@
 
+
+
+
+
 def quadrato_magico(N):
     rimanenti = list(range(1,N*N+1))
     ricorsione([], rimanenti, N)

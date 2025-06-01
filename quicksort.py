@@ -1,4 +1,6 @@
 
+
+
 def quicksort(sequenza):
     if len(sequenza) == 1:
         return sequenza
